@@ -1,0 +1,90 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgimg {
+    padding: 150px;
+    background-image: url("../img/paineltopo.jpg");
+      /* Full height */
+    height: 100%;
+    margin: 0px;
+
+  /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.prima {
+    margin: 0px;
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+button{
+    border-radius: 5px;
+    color: rgb(210,242,250);
+    background-color:rgb(68,148,219);
+    padding: 10px;
+    font-size: 10px;
+    border-color: rgb(68,148,219) ;
+}
+
+nav>ul>li {
+    display:inline-block
+}
+
+header>nav{
+    nav-right: auto;
+    float:  right;
+}
+
+header>figure{
+    float:  left;
+}
+header{
+    height: 120px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 30px 90px 20px 20px; 
+}
+
+.h23{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: 100;
+}
+
+#noss{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: 100;
+}
+
+
+article{
+    margin: 15px 0px;
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.marelo{
+    color: darkorange;
+}
+.peque{
+    font-size: 13px;
+}
+
+#outrosproj{
+    text-align: center;
+}
+
+hr{
+    color: rgb(194, 194, 194);
+}
