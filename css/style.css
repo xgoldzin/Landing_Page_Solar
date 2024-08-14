@@ -28,7 +28,7 @@ button{
     background-color:rgb(68,148,219);
     padding: 10px;
     font-size: 10px;
-    border-color: rgb(68,148,219) ;
+    border-color: rgba(68, 149, 219, 0) ;
 }
 
 nav>ul>li {
