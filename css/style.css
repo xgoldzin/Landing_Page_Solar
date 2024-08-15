@@ -76,7 +76,7 @@ article{
     text-align: center;
 }
 .marelo{
-    color: rgb(247,175,82);
+    color: rgba(247,175,82,255);
 }
 .peque{
     font-size: 13px;
@@ -113,7 +113,7 @@ hr{
 .buttomesq{
     border-radius: 5px;
     color: rgb(210,242,250);
-    background-color: rgb(30,152,225,255);
+    background-color:rgb(68,148,219);
     padding: 10px;
     font-size: 10px;
     border-color: rgba(68, 149, 219, 0) ;
