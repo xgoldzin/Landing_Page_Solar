@@ -65,12 +65,7 @@ header{
 }
 
 
-article{
-    margin: 15px 0px;
-    width: 33%;
-    display: inline-block;
-    text-align: center;
-}
+
 .marelo{
     color: rgba(247,175,82,255);
 }
@@ -78,10 +73,6 @@ article{
     font-size: 13px;
 }
 
-#outrosproj{
-    text-align: center;
-    
-}
 
 hr{
     color: rgb(194, 194, 194);
@@ -144,8 +135,8 @@ hr{
 #baixocenter>article{
     text-align: left;
     margin-top: 50px;
-
 }
+
 
 .clr{    background-color: rgba(0, 0, 0, 0.137);}
 
@@ -204,5 +195,68 @@ footer>figure{
         width: 500px;
     }
 
-}
+    .comof>article>p{
 
+        text-align: center;
+    }
+
+    .comof>article{
+        width: 30%;
+        display: inline-block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .comof{
+        text-align: center;
+    }
+    .comof>article>p{
+        padding-right: px;
+        text-align: center;
+    }
+
+    .comof>article>a>figure>img{
+        width: 100%;
+    }
+
+
+    .outroprj{
+        text-align: center;
+        width: 100%;
+    }
+
+    .outproj{
+        text-align: center;
+    }
+
+    .alingesq{
+        text-align: left;
+    }
+
+    .ultnot{
+        width: 90%;
+        margin: 3% 0% 3% 10%;
+    }
+
+    .ultnot>article{
+        display: inline-block;
+        width: 30%;
+        align-items: top;
+    
+    }  
+
+    .ultnot>article>figure>img{
+        width: 99%;
+    }
+
+    .contt>article{
+        display: inline-block;
+        width: 25%;
+        margin-left: 5%;
+    }
+
+    .cont{
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+}
